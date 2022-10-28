@@ -6,7 +6,24 @@ using System.Threading.Tasks;
 
 namespace StudentDatabase1
 {
-    internal class Student
+    public class Student
     {
+        public string Name { get; set; }
+        public Address Address { get; set; }
+        public Favorites Favorites { get; set; }
+
+        public Student(string name, Address address, Favorites favorites)
+        {
+            Name = name;
+            Address = address;
+            Favorites = favorites;
+            
+        }
+
+
     }
+
+
+
+
 }
