@@ -19,10 +19,16 @@ Student scottStudent = new Student("Scott", scottAddress, scottFavorites);
 Student cassStudent = new Student("Cass", cassAddress, cassFavorites);
 
 
-List<string> studentsList = new List<string>();
+List<Student> studentsList = new List<Student>();
 
-foreach (string student in students)
+studentsList.Add(colinStudent);
+studentsList.Add(ericStudent);
+studentsList.Add(scottStudent);
+studentsList.Add(cassStudent);
+
+
+foreach (Student student in studentsList)
 {
-    Console.WriteLine(student);
+    Console.WriteLine(student.Name);
 }
 

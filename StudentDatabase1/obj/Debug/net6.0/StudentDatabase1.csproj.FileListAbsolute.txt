@@ -1,0 +1,15 @@
+C:\Users\Colin\Documents\git\StudentDatabase1\StudentDatabase1\bin\Debug\net6.0\StudentDatabase1.exe
+C:\Users\Colin\Documents\git\StudentDatabase1\StudentDatabase1\bin\Debug\net6.0\StudentDatabase1.deps.json
+C:\Users\Colin\Documents\git\StudentDatabase1\StudentDatabase1\bin\Debug\net6.0\StudentDatabase1.runtimeconfig.json
+C:\Users\Colin\Documents\git\StudentDatabase1\StudentDatabase1\bin\Debug\net6.0\StudentDatabase1.dll
+C:\Users\Colin\Documents\git\StudentDatabase1\StudentDatabase1\bin\Debug\net6.0\StudentDatabase1.pdb
+C:\Users\Colin\Documents\git\StudentDatabase1\StudentDatabase1\obj\Debug\net6.0\StudentDatabase1.csproj.AssemblyReference.cache
+C:\Users\Colin\Documents\git\StudentDatabase1\StudentDatabase1\obj\Debug\net6.0\StudentDatabase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Colin\Documents\git\StudentDatabase1\StudentDatabase1\obj\Debug\net6.0\StudentDatabase1.AssemblyInfoInputs.cache
+C:\Users\Colin\Documents\git\StudentDatabase1\StudentDatabase1\obj\Debug\net6.0\StudentDatabase1.AssemblyInfo.cs
+C:\Users\Colin\Documents\git\StudentDatabase1\StudentDatabase1\obj\Debug\net6.0\StudentDatabase1.csproj.CoreCompileInputs.cache
+C:\Users\Colin\Documents\git\StudentDatabase1\StudentDatabase1\obj\Debug\net6.0\StudentDatabase1.dll
+C:\Users\Colin\Documents\git\StudentDatabase1\StudentDatabase1\obj\Debug\net6.0\refint\StudentDatabase1.dll
+C:\Users\Colin\Documents\git\StudentDatabase1\StudentDatabase1\obj\Debug\net6.0\StudentDatabase1.pdb
+C:\Users\Colin\Documents\git\StudentDatabase1\StudentDatabase1\obj\Debug\net6.0\StudentDatabase1.genruntimeconfig.cache
+C:\Users\Colin\Documents\git\StudentDatabase1\StudentDatabase1\obj\Debug\net6.0\ref\StudentDatabase1.dll
