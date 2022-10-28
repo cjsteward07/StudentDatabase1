@@ -21,7 +21,7 @@ namespace StudentDatabase1
             Book = book;
         }
 
-        public string FavoriteCategorie(string category)
+        public string FavoriteCategory(string category)
         {
 
             switch (category)
@@ -32,7 +32,7 @@ namespace StudentDatabase1
                 case "book": return $"The favorite book is {category}";
 
             }
-            return "You did not enter a valid categorie";
+            return "You did not enter a valid category";
 
         }
     }
